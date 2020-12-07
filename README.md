@@ -31,6 +31,9 @@ allowEmpty,
 Компонент должен вызываться кодом \<rubrics-tree \/>
 
 ## Результат:
+
+Сервер времени иногда выбрасывает ошибки! Надо подождать, данные будут автоматически запрашиваться (с интервалом в 2 сек.) пока не будут получены!
+
 Исходный код на [https://github.com/perfektion/klerk-rubrics-tree](https://github.com/perfektion/klerk-rubrics-tree)
 
 Рабочий пример на [https://perfektion.github.io/klerk-rubrics-tree/](https://perfektion.github.io/klerk-rubrics-tree)
